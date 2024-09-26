@@ -1,6 +1,12 @@
-#RFIDDOORLOCK
+![WhatsApp Image 2024-09-26 at 12 29 44_a3b836f2](https://github.com/user-attachments/assets/f902e801-2ae8-4103-89ed-878aec695371)#RFIDDOORLOCK
 
 Project yang dibuat oleh Aulia Aufa Zahron yang dinamakan RFIDDOORLOCK ini adalah sebuah sistem keamanan sederhana yang menggunakan RFID (Radio Frequency Identification), servo motor, limit switch, dan buzzer sebagai bagian dari mekanisme akses kontrol. Berikut penjelasan komponennya:
+
+![WhatsApp Image 2024-09-26 at 12 29 44_a3b836f2](https://github.com/user-attachments/assets/1faee348-efff-4f8b-bf15-7a0b27e89f58)
+
+![WhatsApp Image 2024-09-26 at 12 29 44_66f47261](https://github.com/user-attachments/assets/f9d1a046-d0e5-4200-8b10-ce55080c8fc0)
+
+
 
 1. **RFID (MFRC522)**: RFID digunakan untuk membaca kartu atau tag yang memiliki UID (Unique Identifier). Dalam proyek ini, dua UID diotorisasi (`authorizedUID` dan `authorizedUID2`). Sistem akan memeriksa apakah kartu yang digunakan adalah salah satu dari kartu yang diotorisasi.
 
